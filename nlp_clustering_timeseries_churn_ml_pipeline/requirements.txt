@@ -1,0 +1,20 @@
+# Data handling
+pandas         # dataframes and tabular manipulation
+numpy          # numerical computing and array support
+
+# Machine learning
+scikit-learn   # ML algorithms and utilities
+
+# Visualization
+matplotlib     # Plotting and charting
+seaborn        # Statistical data visualization (built on matplotlib)
+
+# Networking / I/O
+urllib3        # downloading data or making HTTP requests
+
+# NLP processing
+textblob       # Lightweight NLP toolkit for rule-based sentiment analysis and text processing
+vaderSentiment   # Rule-based sentiment analysis, good for social and short text
+transformers    # HuggingFace Transformers for deep NLP models
+torch           # Backend for HuggingFace models (PyTorch)
+emoji  # optional but recommended for tweet-like text

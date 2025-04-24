@@ -60,4 +60,9 @@ This pipeline demonstrates how modern machine learning workflows can be applied 
 ---
 
 ## Folder Structure
+- **data:** Stores raw and processed datasets used throughout the project.
+- **src:** Contains modular Python scripts for data loading, feature engineering (turning raw data into model-ready inputs), modeling, and utilities.
+- **notebooks:** Houses exploratory and development notebooks organized by project phase.
+- **outputs:** Saves model artifacts, evaluation plots, predictions, and SHAP (SHapley Additive exPlanations) explanations (i.e., how much each feature contributed).
+
 

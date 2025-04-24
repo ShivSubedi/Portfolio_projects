@@ -1,0 +1,16 @@
+message,Ground_truth_tone,CardiffNLP_label_pred,Vader_label_pred,TextBlob_label_pred
+Thanks for your excellent service!,positive,positive,positive,positive
+"App is working great, no issues.",positive,positive,positive,positive
+Very happy with my internet speed!,positive,positive,positive,positive
+"Billing was accurate, appreciated.",positive,positive,positive,positive
+Customer support was helpful today.,positive,positive,positive,neutral
+Had to reset my router today.,neutral,negative,neutral,neutral
+Need some help with my billing info.,neutral,neutral,positive,neutral
+Where can I find my plan details?,neutral,neutral,neutral,neutral
+Please update me on my ticket status.,neutral,neutral,positive,neutral
+Checking for available upgrade options.,neutral,neutral,neutral,positive
+Still no resolution to my issue!,negative,negative,negative,neutral
+Internet has been slow for days.,negative,negative,neutral,negative
+Your service is disappointing.,negative,negative,negative,negative
+Billing error again this month!,negative,negative,negative,neutral
+Support was unhelpful and rude.,negative,negative,negative,negative

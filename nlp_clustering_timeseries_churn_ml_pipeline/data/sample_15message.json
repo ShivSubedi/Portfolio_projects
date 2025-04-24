@@ -1,0 +1,35 @@
+
+{
+    "description": "This file contains categorized customer support messages used for sentiment analysis. Each category includes a short description and a list of example messages.",
+    "positive": {
+      "description": "Messages expressing satisfaction or praise",
+      "examples": [
+        "Thanks for your excellent service!",
+        "App is working great, no issues.",
+        "Very happy with my internet speed!",
+        "Billing was accurate, appreciated.",
+        "Customer support was helpful today."
+      ]
+    },
+    "neutral": {
+      "description": "Messages that are informational or inquiry-based",
+      "examples": [
+        "Had to reset my router today.",
+        "Need some help with my billing info.",
+        "Where can I find my plan details?",
+        "Please update me on my ticket status.",
+        "Checking for available upgrade options."
+      ]
+    },
+    "negative": {
+      "description": "Messages expressing frustration or dissatisfaction",
+      "examples": [
+        "Still no resolution to my issue!",
+        "Internet has been slow for days.",
+        "Your service is disappointing.",
+        "Billing error again this month!",
+        "Support was unhelpful and rude."
+      ]
+    }
+  }
+  
