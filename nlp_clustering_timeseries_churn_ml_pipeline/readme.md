@@ -1,19 +1,22 @@
 # NLP + Clustering + Time-Series Churn ML Pipeline
+****Note: Project under construction****
 
-This project presents a full-stack machine learning pipeline designed to model and forecast customer churn using multimodal data sources — including natural language customer interactions, behavioral time-series patterns, and structured metadata.
+Goal: This project will present a full-stack machine learning pipeline designed to model and forecast customer churn using multimodal data sources — including natural language customer interactions, behavioral time-series patterns, and structured metadata.
 
-Here, we  integrate:
+Here, I am planning to integrate:
 - **NLP for text mining**,
 - **unsupervised clustering for segmentation**, and
 - **supervised learning models** to build a predictive system that mimics how enterprise teams in **banking, credit cards, and customer service industries** approach churn risk analysis.
 
 ---
 
+***Please consider below are raw ideas for now, they may likely change depending upon availability of the relevant data and flow of the project.*********
+
 ## Project Objective
 
 **Can we predict whether a customer is likely to churn in the next 30 days using their recent interactions, behavior patterns, and sentiment trends?**
 
-This project simulates a real-world scenario where companies want to proactively identify at-risk customers using a combination of:
+This project will simulate a real-world scenario where companies want to proactively identify at-risk customers using a combination of:
 - Support interaction logs (textual complaints, inquiries)
 - Account usage or service activity over time
 - Customer demographic and service metadata
@@ -41,17 +44,17 @@ This project simulates a real-world scenario where companies want to proactively
 
 ## Techniques Used
 
-- Natural Language Processing (VADER, TF-IDF, BERT embeddings)
-- Unsupervised Clustering (KMeans, DBSCAN, UMAP)
-- Time-Series Feature Engineering (rolling stats, lag features)
-- Supervised ML (Logistic Regression, Decision Tree, Random Forest, XGBoost)
-- Explainability (SHAP)
+- Natural Language Processing (VADER, Cardiff, TextBlob)
+- Unsupervised Clustering (KMeans??)
+- Time-Series Feature Engineering (rolling stats, lag features??)
+- Supervised ML (Logistic Regression, Decision Tree, Random Forest, XGBoost??)
+- Explainability (SHAP??)
 
 ---
 
 ##  Business Value
 
-This pipeline demonstrates how modern machine learning workflows can be applied to:
+This pipeline will demonstrate how modern machine learning workflows can be applied to:
 - Identify and retain at-risk customers
 - Understand customer sentiment over time
 - Segment users by behavioral profiles
